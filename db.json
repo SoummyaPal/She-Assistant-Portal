@@ -1,0 +1,198 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mary",
+      "lastName": "Jane",
+      "email": "maryjane@gmail.com",
+      "password": "akpagbuemj12",
+      "isAdmin": true
+    },
+    {
+      "firstName": "Stephanie",
+      "lastName": "Scale",
+      "email": "Stephanie@gmail.com",
+      "password": "stephaniesca",
+      "isAdmin": "false",
+      "id": 2
+    },
+    {
+      "firstName": "Enoobong",
+      "lastName": "Festus",
+      "email": "eno@gmail.com",
+      "password": "enofestus",
+      "isAdmin": "false",
+      "id": 3
+    },
+    {
+      "firstName": "Samuel",
+      "lastName": "Owolabi",
+      "email": "samuel@gmail.com",
+      "password": "sammyowo",
+      "isAdmin": "false",
+      "id": 4
+    },
+    {
+      "firstName": "Layo",
+      "lastName": "Medahunsi",
+      "email": "layo@gmail.com",
+      "password": "layolayo",
+      "isAdmin": "false",
+      "id": 5
+    },
+    {
+      "firstName": "Ebuka",
+      "lastName": "Akpagbue",
+      "email": "ebuka@gmail.com",
+      "password": "ebukaakp",
+      "isAdmin": "false",
+      "id": 6
+    }
+  ],
+  "designs": [
+    {
+      "designName": "Vintage trendy Stonewashed",
+      "designPrice": "$322",
+      "designDescription": "What you wear is how you present yourself to the world.",
+      "designUrl": "db1.jpg",
+      "designerId": "1",
+      "id": 1
+    },
+    {
+      "designName": "Baggie Polkadots",
+      "designPrice": "$31",
+      "designDescription": "Weekday Cherish fluffy round neck jumper in neon green",
+      "designUrl": "db2.jpg",
+      "designerId": "1",
+      "id": 2
+    },
+    {
+      "designName": "Embelished fur ",
+      "designPrice": "$123",
+      "designDescription": "Weekday Cherish fluffy round neck jumper in neon gblue",
+      "designUrl": "db3.jpg",
+      "designerId": "1",
+      "id": 3
+    },
+    {
+      "designName": "Butterfly effect",
+      "designPrice": "$111",
+      "designDescription": "Miss Selfridge wrap top with flare sleeves in black sequin with polkadots",
+      "designUrl": "db4.jpg",
+      "designerId": "3",
+      "id": 4
+    },
+    {
+      "designName": "Color brim ",
+      "designPrice": "$21",
+      "designDescription": " Tall mix & match suit in black",
+      "designUrl": "db5.jpg",
+      "designerId": "3",
+      "id": 5
+    },
+    {
+      "designName": "exotic sensation",
+      "designPrice": "$34",
+      "designDescription": "Embellished fur with droppings on skin",
+      "designUrl": "db6.jpg",
+      "designerId": "3",
+      "id": 6
+    },
+    {
+      "designName": "Black embezel",
+      "designPrice": "$21",
+      "designDescription": "Black embezel  floral prints",
+      "designUrl": "db7.jpg",
+      "designerId": "3",
+      "id": 7
+    },
+    {
+      "designName": "Floral prints",
+      "designPrice": "$31",
+      "designDescription": "floral prints with red colors",
+      "designUrl": "db8.jpg",
+      "designerId": "3",
+      "id": 8
+    },
+    {
+      "designName": "Poodle fiddle",
+      "designPrice": "$111",
+      "designDescription": "Trend setteer valour burgundy",
+      "designUrl": "db9.jpg",
+      "designerId": "4",
+      "id": 9
+    },
+    {
+      "designName": "Honey Dale Exclusive",
+      "designPrice": "$14",
+      "designDescription": "Honeydale exclusive prints black",
+      "designUrl": "db7.jpg",
+      "designerId": "4",
+      "id": 10
+    },
+    {
+      "designName": "Hazel Flex Pints",
+      "designPrice": "$91",
+      "designDescription": "Hazel Flex Pints denim",
+      "designUrl": "img12.jpg",
+      "designerId": "2",
+      "id": 11
+    },
+    {
+      "designName": "Carlifonia Dream",
+      "designPrice": "$123",
+      "designDescription": " Flare sleeves in black sequin and blazer and shawl",
+      "designUrl": "db14.jpg",
+      "designerId": "5",
+      "id": 12
+    },
+    {
+      "designName": "Lana Luna pearl",
+      "designPrice": "$31",
+      "designDescription": "Bright and shimmering design with a touch of pink",
+      "designUrl": "img4.jpg",
+      "designerId": "4",
+      "id": 13
+    },
+    {
+      "designName": "Dina Shimmer and shine",
+      "designPrice": "$24",
+      "designDescription": "Beaded lace and bright pink floral design",
+      "designUrl": "img7.jpg",
+      "designerId": "4",
+      "id": 14
+    }
+  ],
+  "bookings": [
+    {
+      "designName": "Vintage trendy Stonewashed",
+      "designPrice": "$31",
+      "designDescription": "What you wear is how you present yourself to the world.",
+      "designUrl": "db1.jpg",
+      "designid": "1",
+      "phone": "08166068175",
+      "userEmail": "eno@gmail.com",
+      "id": 1
+    },
+    {
+      "designName": "Vintage trendy Stonewashed",
+      "designPrice": "$31",
+      "designDescription": "What you wear is how you present yourself to the world.",
+      "designUrl": "db1.jpg",
+      "designid": "1",
+      "phone": "087654387665",
+      "userEmail": "samuelowolabi@gmail.com",
+      "id": 2
+    },
+    {
+      "designName": "Vintage trendy Stonewashed",
+      "designPrice": "$31",
+      "designDescription": "What you wear is how you present yourself to the world.",
+      "designUrl": "db1.jpg",
+      "designid": "1",
+      "phone": "09082345678",
+      "userEmail": "emily@gmail.com",
+      "id": 3
+    }
+  ]
+}

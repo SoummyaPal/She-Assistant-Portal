@@ -1,0 +1,19 @@
+{
+  "name": "fashioneye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryjanee/Fashion-Eye-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryjanee/Fashion-Eye-Website/issues"
+  },
+  "homepage": "https://github.com/Maryjanee/Fashion-Eye-Website#readme"
+}
