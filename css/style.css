@@ -1,0 +1,204 @@
+#logo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.3rem;
+  color:#b53389;
+  font-weight:bold;
+  letter-spacing: 1px;
+
+}
+body{
+  font-family: 'Quicksand', sans-serif;
+
+}
+.nav-link{
+  text-transform: uppercase;
+  margin-left:1.2rem;
+}
+.carousel-item{
+ 
+  min-height:100vh;
+  background: no-repeat center center scroll;
+  background-size: cover 
+}
+.images{
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.carousel-caption{
+  bottom:140px;
+}
+.carousel-caption h5{
+  text-transform: uppercase;
+  font-size:3rem;
+  letter-spacing: 5px;
+}
+.carousel-caption p{
+  font-size:1.5rem;
+  margin:auto;
+  width:75%;
+  letter-spacing: 2px;
+}
+
+
+
+
+/* Login up */
+.login{
+  padding-top:3rem;
+  height:650px;
+  float:right;
+  margin:0.8rem;
+}
+
+.container{
+  margin-top: 1.2rem;
+  
+}
+.right-column{
+  background: #fff;
+  border:1px solid #e6e6e6;
+  width:500px;
+  margin-top:4rem;
+  padding:1.5rem; 
+
+}
+#logincontainer{
+ 
+  padding-top:3rem;
+}
+.login-logo{
+  margin:0.9rem 2rem;
+  color:#b53389 !important;
+  font-family: 'Dancing Script', cursive !important;
+  font-size: 1.8rem !important;
+  font-weight:bold;
+  letter-spacing: 1px;
+ 
+}
+.info{
+  color:#999;
+  font-size: 1.1rem;
+  line-height: 1.2rem;
+  font-weight:700;
+}
+.or{
+  font-size:1.5rem;
+  color:#999;
+  text-transform: uppercase;
+}
+.or:before{
+  content:'';
+  background: #eeffee;
+  height:2px;
+  position:relative;
+  top:0.7rem;
+  width:110px;
+}
+.or:after{
+  content:'';
+  background: #eeffee;
+  height:2px;
+  position:relative;
+  top:0.6rem;
+  width:110px;
+  left:160px;
+}
+.form-group{
+  margin-bottom:1.8rem !important;
+
+}
+.form-control{
+  background: #fafafa;
+  border:1px solid #efefef;
+  font-size:1rem;
+}
+::placeholder{
+  color:#999 !important;
+}
+.btn{
+  margin:0.8rem auto;
+  padding: 2px;
+  font-weight:700;
+}
+.btn-primary{
+  background:#3897f0;
+   border:
+     1px solid #389710 !important;
+   }
+
+.terms{
+  line-height:18px;
+  margin:5px 20px;
+  font-size: 0.9rem;
+  color:999;
+
+}
+
+.admin{
+  position:relative;
+  left:40%;
+  top:20%;
+  width:650px;
+  height:400px;
+}
+.admin-email{
+  padding:0.5rem;
+}
+
+
+/* Search bar */
+/* Styles for wrapping the search box */
+
+
+
+/* Bootstrap 4 text input with search icon */
+
+.box{
+position: absolute;
+top:13%;
+left:50%;
+width:700px;
+
+}
+
+#search-box{
+  width:350px;
+  height:50px;
+  padding:0 1.5rem;
+  border-radius: 25px 0 0 25px;
+  outline:none;
+  color:#000 !important;
+}
+
+#search-button{
+  border-radius: 0 25px 25px 0;
+  height: 50px;
+  width:150px;
+  outline:none;
+}
+.content{
+  position: relative;
+  top:200px;
+  left:20px;
+  width:400px;
+  height:200px;
+}
+
+
+.delete{
+  height:100px;
+  border:none;
+}
+.container-content{
+  height: 90vh;
+  margin-top: 12rem;
+  display: flex;
+  flex-wrap:wrap;
+  align-content: space-between;
+ 
+
+ 
+}
